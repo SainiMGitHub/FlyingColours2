@@ -1,7 +1,6 @@
----
-layout: page
-title: Bootstrap 4 Github Pages
----
+<div class="text-center">
+  <img src="images/logo.png" alt="Flying Colours Interiors Logo">
+</div>
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -106,4 +105,3 @@ I'm a fan of Github Pages for the possibilities it offers to anyone to publish a
 
 * [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 * [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
-
